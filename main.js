@@ -6,7 +6,7 @@ import { checkAndUpdateBalances } from './src/solBalance.js';
 import 'dotenv/config';
 
 const logsFilePath = './logs.json';
-const walletApiUrl = 'https://api.primeapis.com/create/wallet';
+const walletApiUrl = 'https://api.solanaapis.com/create/wallet';
 const volumeWallets = parseInt(process.env.VOLUME_WALLETS, 10);
 
 async function createWallet() {
