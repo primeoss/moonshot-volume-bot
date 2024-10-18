@@ -64,7 +64,7 @@ We use PRIMEAPIS for processing transactions, and a system fee of 0.0005 SOL is 
 
 If you have suggestions for new features or encounter errors, please contact us:
 
-- **Telegram**: [solanaapisdev](https://t.me/solanaapisdev)
+- **Telegram**: [solanaapis](https://t.me/solanaapis)
 - **Email**: [support@solanaapis.com](mailto:support@solanaapis.com)
 
 Thank you for using the Moonshot Volume Bot.
